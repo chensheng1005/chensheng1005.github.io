@@ -1,0 +1,7 @@
+touch 文件名 --创建新文件
+notepad 文件名  --修改文件内容
+ssh-keygen -t rsa -C "ychenyao@qq.com"   --生成秘钥
+$ ssh -T git@github.com  --是否连接成功
+$ git config --global user.name "chensheng1005"    --用户名
+$ git config --global user.email "ychenyao@qq.com"  --邮箱
+

@@ -1,0 +1,31 @@
+﻿后代：>
+兄弟：+
+上级：^
+分组：()	缩写：div>(header>ul>li*2>a)+footer>p  (div>dl>(dt+dd)*3)+footer>p
+乘法：*
+自增符号：$
+递减符号：$@-
+初始值：$@数字
+自定义属性：[]
+文本内容：{}
+
+隐式标签：
+
+缩写：.class
+<div class="class"></div>
+
+缩写：em>.class
+<em><span class="class"></span></em>
+
+缩写：ul>.class
+<ul>
+    <li class="class"></li>
+</ul>
+
+缩写：table>.row>.col
+<table>
+    <tr class="row">
+        <td class="col"></td>
+    </tr>
+</table>
+

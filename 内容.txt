@@ -1,0 +1,16 @@
+前端三大金刚
+
+AngularJS
+React
+Vue
+
+document.getElementById
+
+document.querySelector(#id);
+document.querySelectorAll();
+
+学会、了解MVVM的基本概念
+
+
+
+git config --global alias s.status
